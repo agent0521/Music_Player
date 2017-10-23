@@ -30,7 +30,7 @@
   * Any numbers between 1-45  
 
 * For Song_FloydAlmazar2.jar  
-  * In the command line, please type "java -jar Melody_FloydAlmazar2.jar" (or just copy the words inside the quotation marks and paste it on command prompt)  
+  * In the command line, please type "java -jar Song_FloydAlmazar2.jar" (or just copy the words inside the quotation marks and paste it on command prompt)  
   * Press enter and then enter the name of the .txt file of the song you want to play:  
   ![songs](https://user-images.githubusercontent.com/24326950/31874410-559a4706-b786-11e7-9290-0f32567d471a.JPG)  
   
