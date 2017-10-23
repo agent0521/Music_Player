@@ -1,5 +1,8 @@
 # Music Player: Melody and Songs
 
+**************************************************************************************
+## ************ Screenshots of this project will be uploaded shortly... ***************
+**************************************************************************************
 Please do the following instructions below:
 
 1. Extract the folder and open it.
