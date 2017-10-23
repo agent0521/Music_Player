@@ -1,7 +1,7 @@
 # Music Player: Melody and Songs
 
 **************************************************************************************
-## ************ Screenshots of this project will be uploaded shortly... ***************
+## ************ Screenshots of this project will be uploaded soon... ***************
 **************************************************************************************
 Please do the following instructions below:
 
